@@ -39,8 +39,11 @@ Fine scale land cover
 ![image](https://user-images.githubusercontent.com/48129653/127219566-5b7ab07f-8d97-4671-ae84-4ce2902909c9.png)
 Points scaled by value, As mg/kg in top soil. Land cover shown by color.
 
-### Correlation with other metals
+### Future directions
 
+Heavy metal contamination most likely related to major point sources - i.e. mine tailings. Rather than (or in addition to) correlation between *occurance* and environmental variables it would potentially be more informative to look at environmental influences on fate of heavy metals. At a fine scale the chemical makeup of soils and plant accumulation will influence levels where metals are present, occurance will be determined by point sources. 
+
+USGS dataset uncludes information on the following:
 Ag, silver; Al, aluminum; As, arsenic, Ba, barium, Be, beryllium, Bi, bismuth; ca, calcium; Cd, cadmium; Ce, cerium; Co, cobalt; Cr, chromium; Cs, cesium; Cu, copper; Fe, iron; Ga, gallium; Hg, mercury; In, indium; K, potassium; La, lanthanum; Li, lithium; Mg, magnesium; Mn, manganese; Mo, molybdenum; Na, sodium;	Nb, niobium; Ni, nickel; P, phosphorus; Pb, lead; Rb, rubidium; S, sulfur; Sb, antimony; Sc, scandium; Se, selenium; Sn, tin; Sr, strontium; Te, tellurium; Th, thorium; Ti, titanium; Tl, thallium; U, uranium; V, vanadium; W, tungsten; Y, yttrium; Zn, zinc
 
 
