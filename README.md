@@ -16,6 +16,7 @@ Natural levels range from 1-40mg/kg (https://www.who.int/ipcs/publications/ehc/e
 Boxplot of mg/kg Arsenic in surface soil, majority of values fall within natural range 0-40 mg/kg
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+   
   0.600   3.200   5.200   6.515   7.700 830.000      72 
  
 Frequency of values above natural range 
