@@ -1,4 +1,4 @@
-# Capstone idea
+# Open source brainstorm
 
 Investigate relationship between heavy metal contaminants and environmental factors including anthropogenic (land use, point source), and natural (soil chemical composition, hydrology). Could be expanded to other contaminants (organics, pfas, etc). 
 
